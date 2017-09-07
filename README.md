@@ -4,8 +4,8 @@ Old school JRPG character sprite sheet generator adopted from chainer's example 
 
 As default, DCGAN will be trained on input-sprite dataset (~700 32x32 png images), which is created from character sheets collected from indie game developer communities and fanart platform such as DeviantArt.
 
-`python train_dcgan.py --dataset 'input-sprite' --gpu 0`
-will turn on the gpu option.
+`python train_dcgan.py --dataset 'input-sprite' --gpu -1`
+will turn off the gpu option.
 
 Sample output after 7200 epoch:
 
