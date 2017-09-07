@@ -19,14 +19,14 @@ Examples of the features 'extracted':
 
 ### Generating characters
 
-* `python train_dcgan.py --dataset 'input-sprite' --gpu 0 --print_pan result/snapshot_iter_7200.npz`
+* `python train_dcgan.py --dataset 'input-sprite' --print_pan result/snapshot_iter_7200.npz`
 will pan through vector spaces from a snapshot `result/snapshot_iter_7200.npz`
 
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/pan00000005.png)
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/pan00000018.png)
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/pan00000024.png)
 
-* `python train_dcgan.py --dataset 'input-sprite' --gpu 0 --print_walk result/snapshot_iter_7200.npz`
+* `python train_dcgan.py --dataset 'input-sprite' --print_walk result/snapshot_iter_7200.npz`
 will pick two random points and then generate interpolations from a snapshot `result/snapshot_iter_7200.npz`
 
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/walk-1-random-random.png)
