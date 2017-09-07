@@ -1,4 +1,4 @@
-# RPG character sprite generator
+# Chara Tsukuru GAN: RPG character generator
 
 Old school JRPG character sprite sheet generator adopted from chainer's example implementation of DCGAN (https://github.com/chainer/chainer).
 
