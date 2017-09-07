@@ -13,7 +13,7 @@ Sample output after 7200 epoch:
 
 Examples of the features 'extracted':
 
-![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/vec00000024.png)
+![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/vec00000029.png)
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/vec00000054.png)
 ![example result](https://raw.githubusercontent.com/almchung/chara-tsukuru-gan/master/vec00000063.png)
 
